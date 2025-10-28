@@ -2,23 +2,21 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ntandoyenkosi Matshisela
+Ntandoyenkosi Matshisela
+Data Scientist & AI Specialist
 
 Show Contacts
 
 Email
-richard@example.com
+matshiselan@gmail.com
 
 Phone
-+1 (213) 352-2795
++4917664036309
 
-Birthday
-June 23, 1982
 
 Location
-Sacramento, California, USA
+Nuremberg, Germany
 
 # navbar
 
@@ -32,30 +30,35 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I am a Data Scientist & AI Specialist with a passion for turning data 
+into actionable insights. I have a strong background in machine learning, 
+statistical analysis, and data visualization, and I enjoy working with 
+large datasets to uncover hidden patterns and trends.
 
 ## service
 
 What i'm doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Data Analysis
+I provide comprehensive data analysis services, including data cleaning, 
+transformation, and visualization, to help businesses make informed 
+decisions.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Machine Learning
+I develop machine learning models to help businesses automate processes 
+and gain insights from their data.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Causal AI Solutions
+I specialize in building causal AI solutions that help businesses 
+understand the impact of their decisions and optimize their strategies.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Deep Learning
+I create deep learning models to help businesses solve complex problems 
+and gain insights from their data.
 
 
 ## testimonials
@@ -93,42 +96,49 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+National University of Science and Technology
+2011 — 2015
+BSc Honours in Operations Research and Statistics
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+National University of Science and Technology
+2016 — 2018
+MSc in Operations Research and Statistics
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Data Scientist, EA Eye
+2025 — Present
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Data Scientist, Ubuntu Insights
+2024 — 2025
+
+Data Management Consultant, CGIAR – Excellence in Breeding (EBS)
+2023 — 2025
+
+Product Specialist Consultant, KingdomBlue Insurance
+2023 — 2023
+
+Junior Data Scientist, 71point4
+2022 — 2023
+
+Scientific Officer Applied Research Data Management, ICRISAT
+2020 — 2022
+
+Statistician | Solusi University
+2016 — 2020
 
 My skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
+R
 90%
-WordPress
-50%
+
+Python
+70%
+
+SQL
+60%
 
 
 
