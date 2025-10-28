@@ -37,7 +37,7 @@ large datasets to uncover hidden patterns and trends.
 
 ## service
 
-What i'm doing
+What I'm doing
 
 alt = design icon
 Data Analysis
